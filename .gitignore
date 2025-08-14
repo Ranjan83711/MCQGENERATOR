@@ -33,3 +33,5 @@ desktop.ini
 dist/
 build/
 
+.env
+
