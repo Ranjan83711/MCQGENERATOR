@@ -35,6 +35,26 @@ build/
 
 .env
 
+# Ignore virtual envs
+venv/
+myenv/
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
 
 
 
