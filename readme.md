@@ -1,3 +1,33 @@
+MCQ Generator 🎯
+
+An AI-powered Multiple Choice Question (MCQ) Generator built with LangChain.
+This project takes custom text or PDFs as input and automatically generates MCQs with answers and distractors.
+It’s designed to help educators, students, and trainers quickly create quizzes, practice tests, and assessments.
+
+✨ Features
+
+📄 Upload text or PDF documents as input
+
+🧠 Uses LangChain + OpenAI LLMs for intelligent question generation
+
+❓ Generates meaningful MCQs with multiple answer options
+
+🎯 Identifies correct answers and creates distractors
+
+🌐 Simple Streamlit web interface for easy usage
+
+⚡ Saves time for teachers, learners, and trainers
+
+🛠️ Tech Stack
+
+1.Python
+2.LangChain
+3.OpenAI API
+4.PyPDF (for PDF text extraction)
+5.Streamlit (for web app UI)
+
+AWS Deployment :
+
 first login to the AWS: https://aws.amazon.com/console/
 
 search about the EC2
